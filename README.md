@@ -1,4 +1,4 @@
-# Team 3/4 Tandon + 1/4 CAS
+# Team NY-US
 
 ---
 ### Goal
