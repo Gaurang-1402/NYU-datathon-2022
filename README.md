@@ -1,4 +1,4 @@
-# Team NY-US
+# Team NY-us
 
 ---
 ### Goal
