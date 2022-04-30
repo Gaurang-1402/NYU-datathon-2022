@@ -1,6 +1,5 @@
 # Team 3/4 Tandon + 1/4 CAS
 
-[Link to YouTube video](URL_HERE)
 ---
 ### Goal
 Our goal was to evaluate the effectiveness of in-game events and challenges in driving up gamer engagement in GTA V Online. 
@@ -13,3 +12,7 @@ Based on the discussion of our data shown earlier, that player engagement genera
 
 ### Recommendations
 We saw that player engagement was generally higher during the week of the Heist Challenge event compared to the Halloween event. This suggests that violent events drive up higher engagement than plain discounts. We recommend Rockstar use challenges over discounts to drive up user engagement.
+
+### Video
+
+[Link to YouTube video](URL_HERE)
